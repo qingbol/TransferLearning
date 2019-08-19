@@ -16,7 +16,7 @@ tmp/*
 dataset.py
 debug.txt
 #predict.py
-train.py
+# train.py
 #trained_model/*
 # trained_model/*.data*
 trained_model/bully_action.data*
